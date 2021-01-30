@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+#procediacquisto{
+	height: 50%;
+	background-color:#474441 !important;
+	color:white;
+	font-size:100%
+}
+#procediacquisto:hover{
+	height: 50%;
+	background-color:#ff8000 !important;
+	color:black;
+}

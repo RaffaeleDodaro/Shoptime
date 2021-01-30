@@ -1,0 +1,82 @@
+@charset "ISO-8859-1";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+html,body{
+background-image: url('../images/background/warehouse.png');
+background-repeat: repeat;
+height: 100%;
+font-family: 'Open Sans', sans-serif;
+}
+
+
+.jumbotron>.container>h1{
+
+	padding: 13px;
+/* 	border-style: double !important; */
+/* 	border-width: 5px; */
+/* 	border-color: cyan; */
+	font-weight: bold;
+}
+
+.white{color: white;}
+
+
+
+.cyan{color: cyan;}
+
+.jumbotron{
+background-color: #343a40;
+margin:0;
+border-style: double;
+border-color:#4a505c;
+border-width: 5px;
+padding-bottom: 35px;
+}
+
+.container-fluid{
+background-color: #343a40;
+border:double;
+border-width: 5px;
+border-color:#4a505c;
+color: white;
+border-top:none;
+}
+
+.content{
+	padding-top:20px;
+	padding-bottom:10px;
+}
+
+#dot{
+	border:dashed;
+	border-width: 3px;
+	border-color:orange;
+	padding: 5px;
+	margin-bottom:5px;
+}
+
+.info{
+	margin-left:100px !important; 
+	padding-right:0 !important;
+	margin-top:20px;
+}
+
+.btn-confirm{
+	margin-left:130px !important;
+}
+
+
+.headline{
+	text-align: center;
+	background-color: #343a40;
+	border:solid;
+	border-color:#4a505c;
+	color: white;
+	font-weight: lighter;
+	margin-top: 10px;
+	margin-bottom:0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-style: double;
+	border-width: 5px;
+}
